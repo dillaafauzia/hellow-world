@@ -1,5 +1,5 @@
 # hellow-world
-dilla's first repository
+
 Hi everyone! 
 
 Get to know me, i like food.
